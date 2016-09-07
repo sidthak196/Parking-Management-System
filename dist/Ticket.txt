@@ -1,0 +1,6 @@
+Parking ticket
+Name:- dipti 
+ Amount=Rs20 
+Date ->2-JUNE-2016
+Time ->23:6:40
+Have A Nice Day!!
