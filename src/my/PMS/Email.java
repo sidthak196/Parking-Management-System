@@ -34,7 +34,7 @@ public class Email {
         String date="\nDate ->"+ldt.getDayOfMonth()+"-"+ldt.getMonth()+"-"+ldt.getYear();
         String time="\nTime ->"+ldt.getHour()+":"+ldt.getMinute()+":"+ldt.getSecond();
         message=message +date+time+"\n Have a great day!\n Team PMS";
-        boolean s= sendMail("siddharth196@yahoo.co.in","@thakur96",message,mail);
+        boolean s= sendMail("siddharth196@yahoo.co.in","password",message,mail);
        if(s)
            System.out.println("sent");
        else
